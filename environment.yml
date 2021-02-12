@@ -1,0 +1,4 @@
+name: dublin-web-mapping
+depdendencies:
+- pandas
+- numpy
