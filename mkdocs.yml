@@ -1,10 +1,5 @@
 site_name: Dublin Electricity Modelling
-site_url: dublin-electricity-demands
 site_description: 'Estimated Annual & Peak Electricity Demands by SA, map displayed via Tableau'
-repo_name: 'dublin-webmaps'
+repo_name: 'codema-dev/dublin-webmaps'
 repo_url: 'https://github.com/codema-dev/dublin-webmaps'
-theme:
-  name: material
-  palette:
-    primary: 'teal'
-    accent: 'light'
+theme: readthedocs
