@@ -1,3 +1,3 @@
-# dublin-webmaps
-Webpage to display results of Dublin Energy Modelling
-Available at https://codema-dev.github.io/dublin-webmaps/
+# Dublin Region Energy Masterplan
+Webpage to display output results of Dublin Energy Modelling. Developed by Codema
+
