@@ -1,6 +1,8 @@
 This website contains actively maintained listings of Dublin's Energy Demands by Sector:
 
-- [Electricity Demands](Electricity-Demands.md)
+- [Total Electricity Demands](Electricity-Demands.md)
+- [Residential Electricity Demands](Residential-Electricity.md)
+- [Commercial Electricity Demands](Commercial-Electricity.md)
 - [BER Map](BER-Map.md)
 
 This website was created by the [codema-dev](https://github.com/codema-dev/) team as part of the SEAI RD&D funded [Dublin Region Energy Masterplan project](https://www.codema.ie/projects/local-projects/dublin-region-energy-master-plan/).
