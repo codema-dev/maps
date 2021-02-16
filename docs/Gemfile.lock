@@ -257,12 +257,8 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  github-pages
-  jekyll-feed (~> 0.12)
+  github-pages (~> 211)
   jekyll-theme-slate (~> 0.1.1)
-  tzinfo (~> 1.2)
-  tzinfo-data
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.2.2
