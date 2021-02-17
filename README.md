@@ -2,7 +2,7 @@
 
 Source files for "Dublin Energy Webmaps" - a website containing interactive Dublin energy-related webmaps.
 
-Available at: https://codema-dev.github.io/dublin-webmaps/
+Available at: https://codema-dev.github.io/dublin-energy-webmaps/
 
 This website was created by the [codema-dev](https://github.com/codema-dev/) team as part of the SEAI RD&D funded [Dublin Region Energy Masterplan project](https://www.codema.ie/projects/local-projects/dublin-region-energy-master-plan/).
 
