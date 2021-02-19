@@ -1,7 +1,8 @@
 This website contains actively maintained, up-to-date Dublin Energy webmaps including:
 
 - Buildings
-    - [Residential BER Map](buildings/BER-Map.md)
+    - [Residential BER Map Postcode](buildings/BER-Postcode-Map.md)
+    - [Residential BER Map Small Area](buildings/BER-SA-Map.md)
     - [Residential Retrofit Scenario Map](buildings/Residential-Retrofit)
 - Demand
     - [Electricity](demands/Electricity.md)
