@@ -1,0 +1,11 @@
+site_name: Dublin Energy Webmaps
+site_description: 'Actively maintained energy webmaps for Dublin'
+repo_name: 'codema-dev/dublin-energy-webmaps'
+repo_url: 'https://github.com/codema-dev/dublin-energy-webmaps'
+theme:
+  name: material
+  logo: 'codema-logo.png'
+  favicon: 'favicon.ico'
+  palette:
+    primary: 'blue'
+    accent: 'dark'

@@ -1,10 +1,12 @@
-This website contains actively maintained listings of Dublin's Energy Demands by Sector:
+This website contains actively maintained, up-to-date Dublin Energy webmaps including:
 
-- [Total Electricity Demands](Electricity-Demands.md)
-- [Residential Electricity Demands](Residential-Electricity.md)
-- [Commercial Electricity Demands](Commercial-Electricity.md)
-- [BER Map](BER-Map.md)
-- [Residential Demand by % of Stock Retrofitted](Residential-Retrofit.md)
+- Buildings
+    - [Residential BER Map](buildings/BER-Map.md)
+    - [Residential Retrofit Scenario Map](buildings/Residential-Retrofit)
+- Demand
+    - [Electricity](demands/Electricity.md)
+    - [Gas](demands/Gas.md)
+    - [Heat](demands/Heat.md)
 
 
 This website was created by the [codema-dev](https://github.com/codema-dev/) team as part of the SEAI RD&D funded [Dublin Region Energy Masterplan project](https://www.codema.ie/projects/local-projects/dublin-region-energy-master-plan/).
