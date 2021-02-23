@@ -1,4 +1,4 @@
-# Socio-Economic
+# Energy Poverty
 
 ## Map of Deprivation Index & Energy Poverty in Dublin
 
