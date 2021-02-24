@@ -26,6 +26,8 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+> Converted from [HTML Central Statistics Office](https://www.cso.ie/en/releasesandpublications/er/ngc/networkedgasconsumption2019/) to GeoJSON via the open-source project [cso-network-gas](https://github.com/codema-dev/cso-network-gas)
+
 
 ---
 
@@ -65,3 +67,5 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+> Converted from [HTML Central Statistics Office](https://www.cso.ie/en/releasesandpublications/er/ngc/networkedgasconsumption2019/) to GeoJSON via the open-source project [cso-network-gas](https://github.com/codema-dev/cso-network-gas)

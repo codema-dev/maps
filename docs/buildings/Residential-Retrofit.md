@@ -33,6 +33,6 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-> Created using pre/post `EnergyPlus` models created by the UCD energy engineering research team.
+> Created using pre/post `EnergyPlus` models created by the UCD energy engineering research team extrapolated in the open-source project [dublin-energy-model](https://github.com/codema-dev/dublin-energy-model)
 
 > **Caveats**: all dwellings are forced into one of 12 pre/post archetypes and the energy savings from pre to post are dependent upon the representativeness of these archetypes. 

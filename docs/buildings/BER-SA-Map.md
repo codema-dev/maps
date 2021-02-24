@@ -28,3 +28,7 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+> Created using SEAI's BER Public Search database via the [berpublicsearch](https://github.com/codema-dev/berpublicsearch) tool on 23/02/2021. 
+
+> **Caveats**: the BER Public Search database is not a complete building stock database and is biased against old buildings.
