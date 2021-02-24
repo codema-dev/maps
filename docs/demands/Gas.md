@@ -1,8 +1,3 @@
-# Gas
-
-## Residential
-## Total Annual Consumption [GWh/year]
-
 <div class='tableauPlaceholder' id='viz1613648433373' style='position: relative'><noscript><a href='#'><img alt=' '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TotalAnnualResidentialGasConsumptionGWhyear&#47;Map&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
@@ -31,8 +26,11 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Non-Residential
-## Total Annual Consumption [GWh/year]
+> Converted from [HTML Central Statistics Office](https://www.cso.ie/en/releasesandpublications/er/ngc/networkedgasconsumption2019/) to GeoJSON via the open-source project [cso-network-gas](https://github.com/codema-dev/cso-network-gas)
+
+
+---
+
 
 <div class='tableauPlaceholder' id='viz1613652157001' style='position: relative'><noscript><a
             href='https:&#47;&#47;codema-dev.github.io&#47;dublin-energy-webmaps&#47;'><img alt=' '
@@ -69,3 +67,5 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+> Converted from [HTML Central Statistics Office](https://www.cso.ie/en/releasesandpublications/er/ngc/networkedgasconsumption2019/) to GeoJSON via the open-source project [cso-network-gas](https://github.com/codema-dev/cso-network-gas)
