@@ -1,7 +1,3 @@
-# Energy Poverty
-
-## Map of Deprivation Index & Energy Poverty in Dublin
-
 <div class='tableauPlaceholder' id='viz1614092242319' style='position: relative'>
     <noscript>
         <a href='#'>
