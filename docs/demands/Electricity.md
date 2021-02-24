@@ -1,9 +1,3 @@
-# Electricity
-
-## All-of-Dublin
-
-### Total Annual Demand
-
 <div class='tableauPlaceholder' id='viz1613390224894' style='position: relative'>
     <noscript>
         <a href='#'>
@@ -35,9 +29,9 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Residential
 
-### Total Annual Demand
+---
+
 
 <div class='tableauPlaceholder' id='viz1613483939245' style='position: relative'>
     <noscript>
@@ -75,10 +69,6 @@
 
 ---
 
-
-## Commercial
-
-### Total Annual Demand
 
 <div class='tableauPlaceholder' id='viz1613485012536' style='position: relative'>
     <noscript>

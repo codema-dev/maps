@@ -1,8 +1,3 @@
-# Gas
-
-## Residential
-## Total Annual Consumption [GWh/year]
-
 <div class='tableauPlaceholder' id='viz1613648433373' style='position: relative'><noscript><a href='#'><img alt=' '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TotalAnnualResidentialGasConsumptionGWhyear&#47;Map&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
@@ -31,8 +26,9 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Non-Residential
-## Total Annual Consumption [GWh/year]
+
+---
+
 
 <div class='tableauPlaceholder' id='viz1613652157001' style='position: relative'><noscript><a
             href='https:&#47;&#47;codema-dev.github.io&#47;dublin-energy-webmaps&#47;'><img alt=' '
