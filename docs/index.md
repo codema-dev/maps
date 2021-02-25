@@ -10,6 +10,8 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [Heat](demands/Heat.md)
 - Socio Economic
     - [Deprivation Index by Small Area](socio-economic/deprivation-index.md)
+- Carbon Emissions
+    - [Carbon Emissions](emissions/Carbon-Emissions.md)
 
 
 This website was created by the [codema-dev](https://github.com/codema-dev/) team as part of the SEAI RD&D funded [Dublin Region Energy Masterplan project](https://www.codema.ie/projects/local-projects/dublin-region-energy-master-plan/).
