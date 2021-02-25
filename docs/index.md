@@ -11,6 +11,8 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [Heat](demands/Heat.md)
 - Socio Economic
     - [Deprivation Index by Small Area](socio-economic/deprivation-index.md)
+- Carbon Emissions
+    - [Carbon Emissions](emissions/Carbon-Emissions.md)
 
 ---
 
