@@ -1,9 +1,3 @@
-# Electricity
-
-## All-of-Dublin
-
-### Total Annual Demand
-
 <div class='tableauPlaceholder' id='viz1613390224894' style='position: relative'>
     <noscript>
         <a href='#'>
@@ -35,9 +29,13 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Residential
+> Created using pre/post `EnergyPlus` models created by the UCD energy engineering research team extrapolated in the open-source project [dublin-energy-model](https://github.com/codema-dev/dublin-energy-model)
 
-### Total Annual Demand
+> **Caveats**: all dwellings are forced into one of 12 pre/post archetypes and the energy savings from pre to post are dependent upon the representativeness of these archetypes. 
+
+
+---
+
 
 <div class='tableauPlaceholder' id='viz1613483939245' style='position: relative'>
     <noscript>
@@ -70,15 +68,13 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-> Source: [dublin-energy-model](https://github.com/codema-dev/dublin-energy-model) 
+> Created using pre/post `EnergyPlus` models created by the UCD energy engineering research team extrapolated in the open-source project [dublin-energy-model](https://github.com/codema-dev/dublin-energy-model)
+
+> **Caveats**: all dwellings are forced into one of 12 pre/post archetypes and the energy savings from pre to post are dependent upon the representativeness of these archetypes. 
 
 
 ---
 
-
-## Commercial
-
-### Total Annual Demand
 
 <div class='tableauPlaceholder' id='viz1613485012536' style='position: relative'>
     <noscript>
@@ -110,7 +106,6 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-> Source: [dublin-energy-model](https://github.com/codema-dev/dublin-energy-model) 
+> Created using pre/post `EnergyPlus` models created by the UCD energy engineering research team extrapolated in the open-source project [dublin-energy-model](https://github.com/codema-dev/dublin-energy-model)
 
----
-
+> **Caveats**: all dwellings are forced into one of 12 pre/post archetypes and the energy savings from pre to post are dependent upon the representativeness of these archetypes. 
