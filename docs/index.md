@@ -1,10 +1,11 @@
 This website contains actively maintained, up-to-date Dublin Energy webmaps including:
 
 - Buildings
+    - [District Heating Viability Map](buildings/District-Heating-Viability.md)
+    - [Heat Pump Viability Map](buildings/Heat-Pump-Viability.md)
     - [Residential BER Map Postcode](buildings/BER-Postcode-Map.md)
     - [Residential BER Map Small Area](buildings/BER-SA-Map.md)
     - [Residential Retrofit Scenario Map](buildings/Residential-Retrofit.md)
-    - [Heat Pump Viability Map](buildings/Heat-Pump-Viability.md)
 - Demand
     - [Electricity](demands/Electricity.md)
     - [Gas](demands/Gas.md)
