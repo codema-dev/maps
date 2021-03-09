@@ -13,6 +13,8 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [Deprivation Index by Small Area](socio-economic/deprivation-index.md)
 - Carbon Emissions
     - [Carbon Emissions](emissions/Carbon-Emissions.md)
+- Overview
+    - [Population Density](overview/pop-density.md)
 
 ---
 
