@@ -15,11 +15,14 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
 - Carbon Emissions
     - [Carbon Emissions](emissions/Carbon-Emissions.md)
 
+> Go to the [Wishlist page](Wishlist.md) to submit ideas for webmaps to the `codema-dev` team!
+
 ---
 
-> Click Fullscreen on for a better image!
-
-> ![click-fullscreen](img/click-fullscreen.png)
+<a href="https://www.codema.ie/">
+  <img src="img/click-fullscreen.png" width="250px">
+</a>
+> Click Fullscreen for a better image!
 
 ---
 
