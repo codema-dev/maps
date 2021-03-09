@@ -14,6 +14,8 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [Deprivation Index by Small Area](socio-economic/deprivation-index.md)
 - Carbon Emissions
     - [Carbon Emissions](emissions/Carbon-Emissions.md)
+- Overview
+    - [Population Density](overview/pop-density.md)
 
 > Go to the [Wishlist page](Wishlist.md) to submit ideas for webmaps to the `codema-dev` team!
 
