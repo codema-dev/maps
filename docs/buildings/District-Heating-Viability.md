@@ -1,27 +1,25 @@
-<div class='tableauPlaceholder' id='viz1615205609526' style='position: relative'><noscript><a href='#'><img alt=' '
-                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;HeatDemandDensityMapParametrised&#47;HeatDemandDensityMapTJkm&#47;1_rss.png'
-                style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
-        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-        <param name='embed_code_version' value='3' />
-        <param name='site_root' value='' />
-        <param name='name' value='HeatDemandDensityMapParametrised&#47;HeatDemandDensityMapTJkm' />
-        <param name='tabs' value='no' />
-        <param name='toolbar' value='yes' />
-        <param name='static_image'
-            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;HeatDemandDensityMapParametrised&#47;HeatDemandDensityMapTJkm&#47;1.png' />
-        <param name='animate_transition' value='yes' />
-        <param name='display_static_image' value='yes' />
-        <param name='display_spinner' value='yes' />
-        <param name='display_overlay' value='yes' />
-        <param name='display_count' value='yes' />
-        <param name='language' value='en' />
-        <param name='filter' value='publish=yes' /></object></div>
-<script type='text/javascript'>
-    var divElement = document.getElementById('viz1615205609526');
-    var vizElement = divElement.getElementsByTagName('object')[0];
-    vizElement.style.width = '100%';
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+```
+Map currently in development
+```
+
+This Heat Demand Density (HDD) estimate is a sum of estimated Residential, Industrial & Non-Industrial building heat demands.  A HDD of greater than 150 TJ/km² indicates that the region may be suitable for District Heating. 
+
+Residential estimate
+= Number of dwellings (from 2016 Census) 
+* Average Residential heat demand average
+* Average Boiler efficiency
+
+Non-Residential estimate
+= Total building floor area (from 08/03/2021 Valuation Office Data)
+* Building floor area benchmark (fossil fuel demand per unit floor area) corresponding to the building in question
+* Average Boiler efficiency
+
+Average Residential Heat Demand
+= roughly 10,000 kWh/year (from 2019 Gas Networks Ireland Annual Gas Consumption)
+* 85% efficiency (from BER Public search)
+
+Non-Residential Heat Demand Calculations: https://github.com/codema-dev/dublin-building-stock
+Non-Residential building floor areas: https://www.valoff.ie/en/open-data/api/
+Residential dwellings count: https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/
+Annual gas consumption: https://www.cso.ie/en/statistics/climateandenergy/networkedgasconsumption/
+BER Public search: https://ndber.seai.ie/BERResearchTool/Register/Register.aspx
