@@ -1,3 +1,5 @@
+> Created using outputs from NTA East Regional Model. For demand modelling purposes and the automated calibration stage there are two main data sources - the 2016 CSO Census Place of Work, School or College - Census of Anonymised Records (POWSCAR), and the 2017 National Household Travel Survey.
+
 <div class='tableauPlaceholder' id='viz1615884184147' style='position: relative'><noscript><a href='#'><img alt=' '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;of&#47;ofJouneysUndertakenbyMode&#47;ofJourneysUndertakenbyMode&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
