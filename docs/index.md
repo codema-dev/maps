@@ -8,8 +8,6 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [Residential Retrofit Scenario Map](buildings/Residential-Retrofit.md)
 - Carbon Emissions
     - [Carbon Emissions](emissions/Carbon-Emissions.md)
-- Decarbonizing Zones
-    - [Dublin Initial Screening](decarb-zone/sdz.md)
 - Demand
     - [Electricity](demands/Electricity.md)
     - [Gas](demands/Gas.md)
@@ -21,7 +19,6 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
 - Transport
     - [% of Jouneys Undertaken by Mode](transport/Mode.md)
     - [Road Transport Emissions](transport/Road-Transport-Emissions.md)
-
 
 > Go to the [Wishlist page](Wishlist.md) to submit ideas for webmaps to the `codema-dev` team!
 
