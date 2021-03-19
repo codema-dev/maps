@@ -20,7 +20,6 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [% of Jouneys Undertaken by Mode](transport/Mode.md)
     - [Road Transport Emissions](transport/Road-Transport-Emissions.md)
 
-
 > Go to the [Wishlist page](Wishlist.md) to submit ideas for webmaps to the `codema-dev` team!
 
 ---
