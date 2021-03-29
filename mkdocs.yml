@@ -4,6 +4,7 @@ repo_name: 'codema-dev/dublin-energy-webmaps'
 repo_url: 'https://github.com/codema-dev/dublin-energy-webmaps'
 theme:
   name: material
+  custom_dir: overrides
   logo: 'codema-logo.png'
   favicon: 'favicon.ico'
   palette:
