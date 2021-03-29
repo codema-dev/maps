@@ -1,6 +1,7 @@
 # Building Energy Rating (BER)
 
-## BER vs Period Built
+> All BER (public) Dublin data was extracted from [SEAI's BER Public search database](https://ndber.seai.ie/BERResearchTool/Register/Register.aspx) on March 2021 
+## Rating Age Distribution
 
 <div>
   <div class="bk-root" id="7e9d01c4-b2e8-431e-9a7f-c00cebc435cb" data-root-id="1935"></div>
@@ -1440,7 +1441,7 @@
 
 </div>
 
-## BER Band vs Period Built
+## Band Age Distribution
 
 <div>
   <div class="bk-root" id="92c26d04-5b67-448b-bf51-300042861129" data-root-id="2320"></div>
