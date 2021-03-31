@@ -90,5 +90,4 @@ src="https://renewables.maps.arcgis.com/apps/webappviewer/index.html?id=360f7b3f
 
 The following Small Area Map was created for the entire Dublin residential building stock as of the [2016 Census](https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/) using the [estimated BER bands](BER-Age-Profiles.md)
 
-<iframe width="2000" height="1000" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
-src="/html/estimated_dublin_small_area_bers.html"></iframe>
+<object type="text/html" data="../../html/estimated_dublin_small_area_bers.html" width="2000" height="1000" frameborder="0"></object>
