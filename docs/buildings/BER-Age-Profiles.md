@@ -1,8 +1,8 @@
 # Building Energy Rating (BER) Age Profiles
 
-The Dublin BER data was extracted from [SEAI's BER public search database](https://ndber.seai.ie/BERResearchTool/Register/Register.aspx) which represents roughly 287,000 out of 465,000<sup>[1](#total-buildings)</sup> buildings.
+The Dublin BER data was extracted from [SEAI's BER public search database](https://ndber.seai.ie/BERResearchTool/Register/Register.aspx).
 
-Data extracted: 04/2021
+Last update: 04/2021 ➡ represents roughly ~287,000 out of ~465,000<sup>[1](#total-buildings)</sup> Dublin buildings.
 
 ## Ratings
 
