@@ -7,6 +7,7 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [District Heating Viability Map](buildings/District-Heating-Viability.md)
     - [Heat Pump Viability Map](buildings/Heat-Pump-Viability.md)
     - [Residential Retrofit Scenario Map](buildings/Residential-Retrofit.md)
+    - [Zoning](buildings/Zoning.md)
 - Carbon Emissions
     - [Carbon Emissions](emissions/Carbon-Emissions.md)
 - Demand
