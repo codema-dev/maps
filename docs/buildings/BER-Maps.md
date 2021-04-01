@@ -1,11 +1,21 @@
 # Building Energy Rating (BER) Maps
 
-## SEAI Small Area Map
+## Estimated Small Area BER Breakdown
 
-> Developed by Mark Bohacek, Behavioural Economics Unit, SEAI, 2019. Last update: 04/2020
+> Created for the entire Dublin residential building stock as of the [2016 Census](https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/) by [estimating BER bands from building ages](BER-Age-Profiles.md#estimated-bands)
 
-> The data includes currently geo-coded dwellings that have had a BER completed. After clicking on a coloured Small Area the map generates basic summary statistics including a break-down by dwelling type, BER rating, BER value, heating fuel, controls, etc. The map includes a filter that allows users to filter by the percentage of BERs carried out in a Small Area (to operate the filter simply type in the desired percentage). The map also allows user to select Small Areas with a desired combination of median BERs. You can also search by address or EirCode (left magnifying glass), or Small Area (right magnifying glass) buttons located in top left corner of the map.
+<object type="text/html" data="../../html/estimated_dublin_small_area_bers.html" width="2000" height="1000" frameborder="0"></object>
 
+
+## Median Small Area BERs (by `SEAI`)
+
+> **Includes currently geo-coded dwellings that have had a BER completed.**
+
+> You can search by address or Eircode by clicking the left magnifying glass.
+
+> Developed by Mark Bohacek, Behavioural Economics Unit, SEAI, 2019.
+
+> Last update: 04/2020
 
 <iframe width="1000" height="1000" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
 src="https://renewables.maps.arcgis.com/apps/webappviewer/index.html?id=360f7b3f6f484d7d89b967b41231daef"></iframe>
@@ -13,11 +23,11 @@ src="https://renewables.maps.arcgis.com/apps/webappviewer/index.html?id=360f7b3f
 
 ## `codema-dev` Small Area Map
 
-> Developed by `codema-dev`, 2021. Last update: 07/2020. 
+> Developed by `codema-dev`, 2021. 
 
-> The map uses a closed-access Small Area version of the SEAI's BER Public Search database to evaluate the median BER rating per Small Area.
+> The map uses a closed-access Small Area version of the SEAI's BER Public Search database which contains  to evaluate the median BER rating per Small Area.
 
-> **Caveats**: the BER Public Search database is not a complete building stock database and is biased against old buildings.
+> Data extracted: 07/2020. 
 
 <div class='tableauPlaceholder' id='viz1613734369266' style='position: relative'>
     <noscript>
@@ -81,13 +91,3 @@ src="https://renewables.maps.arcgis.com/apps/webappviewer/index.html?id=360f7b3f
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-> Created using SEAI's BER Public Search database via the [berpublicsearch](https://github.com/codema-dev/berpublicsearch) tool on 23/02/2021.  
-
-> **Caveats**: the BER Public Search database is not a complete building stock database and is biased against old buildings.  
-
-## `codema-dev` Small Area Map
-
-The following Small Area Map was created for the entire Dublin residential building stock as of the [2016 Census](https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/) using the [estimated BER bands](BER-Age-Profiles.md)
-
-<object type="text/html" data="../../html/estimated_dublin_small_area_bers.html" width="2000" height="1000" frameborder="0"></object>
