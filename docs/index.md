@@ -1,6 +1,7 @@
 This website contains actively maintained, up-to-date Dublin Energy webmaps including:
 
 - Buildings
+    - [Boiler Maps](buildings/Boiler-Maps.md)
     - [Building Energy Rating (BER) Age Profiles](buildings/BER-Age-Profiles.md)
     - [Building Energy Rating (BER) Maps](buildings/BER-Maps.md)
     - [District Heating Viability Map](buildings/District-Heating-Viability.md)
