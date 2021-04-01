@@ -13,6 +13,13 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [Electricity](demands/Electricity.md)
     - [Gas](demands/Gas.md)
     - [Heat](demands/Heat.md)
+- [Dublin Housing Observatory](Dublin-Housing-Observatory.md)
+    - Zoning & Planning
+    - Dwelling Completions & Building Energy Ratings
+    - Pobal Deprivation Index
+    - Census Key Variables
+    - Local Services: Schools, Hospitals, Dart Stops etc.
+    - Rental Market, Sales and Property Valuations
 - Overview
     - [Population Density](overview/Population-Density.md)
 - Socio Economic
