@@ -20,7 +20,9 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - Pobal Deprivation Index
     - Census Key Variables
     - Local Services: Schools, Hospitals, Dart Stops etc.
-    - Rental Market, Sales and Property Valuations
+    - Rental Market, Sales and Property 
+- Electricity
+    - [Capacity](electricity/Capacity.md)
 - Overview
     - [Population Density](overview/Population-Density.md)
 - Socio Economic
