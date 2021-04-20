@@ -3,6 +3,11 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
 - Technology Viability Maps
     - [District Heating](technological-viability/District-Heating.md)
     - [Heat Pumps](technological-viability/Heat-Pumps.md)
+- Demand (measured)
+    - [Public Sector Buildings](buildings/Public-Sector-Demand.md)
+    - [Residential & Non-Residential Gas](demands/Gas.md)
+- Demand (modelled)
+    - [Electricity](demands/Electricity.md)
 - Buildings
     - [Boiler Maps](buildings/Boiler-Maps.md)
     - [Building Energy Rating (BER) Age Profiles](buildings/BER-Age-Profiles.md)
@@ -14,9 +19,7 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
 - Carbon Emissions
     - [Carbon Emissions](emissions/Carbon-Emissions.md)
 - Demand
-    - [Electricity](demands/Electricity.md)
-    - [Gas](demands/Gas.md)
-    - [Heat](demands/Heat.md)
+    
 - [Dublin Housing Observatory](Dublin-Housing-Observatory.md)
     - Zoning & Planning
     - Dwelling Completions & Building Energy Ratings
