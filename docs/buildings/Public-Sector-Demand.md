@@ -10,7 +10,7 @@ These maps area based on SEAI's Monitoring & Reporting (M&R) dataset which was r
 
 > - These Locations were geocoded using the `Google Maps Geocoding API` and verified to be in the correct Postcode, however, there may still be incorrect locations.  Please contact us at `codema-dev@codema.ie` if you spot any!
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1invy4mzMToGKjc0a0_0ZkzRy_6bEbJnh" width="1000" height="600"></iframe>
+`PUBLICATION PENDING APPROVAL`
 
 ---
 
@@ -26,7 +26,7 @@ To find specific buildings in `Dun Laoghaire` (for example):
 
 > - These Locations were geocoded using the `Openstreetmaps Nominatim` geocoder and verified to be in the correct Postcode, however, there may still be incorrect locations.  Please contact us at `codema-dev@codema.ie` if you spot any!
 
-<iframe src="https://dublin-monitoring-and-reporting-osm.glitch.me/data/demands" width="1000" height="1500"></iframe>
+`PUBLICATION PENDING APPROVAL`
 
 
 ---
@@ -40,4 +40,4 @@ To find the buildings that were not successfully geocoded by Google Maps:
 -  Click on `- column -` and select `google_maps_geocoding_was_successful` `=` `False`
 - Or click `google_maps_geocoding_was_successful` under `suggested facets`.
 
-<iframe src="https://dublin-public-building-demands.glitch.me/data/demands" width="1000" height="1000"></iframe>
+`PUBLICATION PENDING APPROVAL`
