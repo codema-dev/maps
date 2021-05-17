@@ -14,6 +14,7 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [Building Energy Rating (BER) Maps](buildings/BER-Maps.md)
     - [District Heating Viability Map](buildings/District-Heating-Viability.md)
     - [Heat Pump Viability Map](buildings/Heat-Pump-Viability.md)
+    - [National Heritage Sites](buildings/Heritage-Buildings.md)
     - [Residential Retrofit Scenario Map](buildings/Residential-Retrofit.md)
     - [Zoning](buildings/Zoning.md)
 - Carbon Emissions
