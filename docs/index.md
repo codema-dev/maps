@@ -33,6 +33,7 @@ This website contains actively maintained, up-to-date Dublin Energy webmaps incl
     - [Capacity](electricity/Capacity.md)
 - Overview
     - [Population Density](overview/Population-Density.md)
+    - [Housing Ownership Percentage by Small Area](overview/Housing-Ownership.md)
 - Socio Economic
     - [Deprivation Index by Small Area](socio-economic/deprivation-index.md)
 - Transport
