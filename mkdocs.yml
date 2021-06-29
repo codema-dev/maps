@@ -1,5 +1,6 @@
 site_name: Dublin Energy Webmaps
 site_description: 'Actively maintained energy webmaps for Dublin'
+site_url: https://codema-dev.github.io/dublin-energy-webmaps/
 repo_name: 'codema-dev/dublin-energy-webmaps'
 repo_url: 'https://github.com/codema-dev/dublin-energy-webmaps'
 theme:
